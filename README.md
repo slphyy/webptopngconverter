@@ -9,7 +9,7 @@ This .batch converts .webp into .png files.
 
 - [ImageMagick](https://imagemagick.org/script/download.php#windows)
 
-When you are in the setup of ImageMagick, make sure the option **Add application directory to your system path** is marked.
+When you are in the setup of ImageMagick, make sure the option is marked:
 
 ![image](https://github.com/user-attachments/assets/17ef4feb-1269-423f-af9f-b804b969af06)
 
