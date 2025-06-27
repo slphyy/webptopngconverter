@@ -11,6 +11,10 @@ This .batch converts .webp into .png files.
 
 When you are in the setup of ImageMagick, make sure the option **Add application directory to your system path** is marked.
 
+### How to use it
+
+Drag the batch file to the folder where the webp files are located and run it, when the script is finished it will show "Conversion complete!" as a message.
+
 ```
 @echo off
 setlocal enabledelayedexpansion
